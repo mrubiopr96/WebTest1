@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "title": "Astro Example Site",
+    "base_url": "https://astronetlifydeploytest/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
